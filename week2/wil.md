@@ -2,13 +2,13 @@ Weekly I Learn
 ==============
 #1. Fork, star, Issue
 --------------------  
-   Fork : 다른 사용자의 repository를 복사해 독립적으로 수정/관리
-   Star : 관심있는 repository 나 프로젝트에 star를 달아 “북마크” 처럼 관리
-   Issue : Repository에서 작업 계획/ 토론/추적을 위해 활용
+   Fork : 다른 사용자의 repository를 복사해 독립적으로 수정/관리        
+   Star : 관심있는 repository 나 프로젝트에 star를 달아 “북마크” 처럼 관리         
+   Issue : Repository에서 작업 계획/ 토론/추적을 위해 활용         
 ***
 #2. Branch
 ----------------
-	- 기존 브랜치에서 분기되어 생서외는 별도의 작업 공간
+	- 기존 브랜치에서 분기되어 생성되는 별도의 작업 공간
 	- fork 와 달리 같은 repository에 생성됨
 	- convention : “type/이슈번호-간략한설명”
 	# pull request 
